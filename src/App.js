@@ -64,7 +64,7 @@ return (
 export default App;
 
 
-{/* // const App = () => { */}
+// const App = () => { 
 //   const [persons, setPersons] = useState([    // useState is a method where we get 2 things, persons is a value and setPersons is a function 
 //     { name: 'Dave', age: 33 },
 //     { name: 'Karen', age: 45},
